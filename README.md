@@ -145,6 +145,9 @@ XLT (Cross-Lingual-Thought) 方式の知見に基づく。研究により、英�
 
 ## 参考文献
 
+> 注: 以下の研究は主にGPT系・初期Claudeで検証されたもの。
+> モデル更新により効果が変化する可能性あり。
+
 ### コンテキスト長と性能
 
 - Liu et al. ["Lost in the Middle: How Language Models Use Long Contexts"](https://aclanthology.org/2024.tacl-1.9/) (TACL 2024)
