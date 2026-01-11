@@ -29,8 +29,9 @@ Priority: Primary > Academic > Official > News
 Respond entirely in Japanese. Restructure all tool outputs and artifacts into Japanese before presenting.
 
 ## CHECK
-(If applicable) Critiqued? Evidence? Alternative?
-(Always) Search language? Output in Japanese? Forward?
+On proposal/opinion → Critiqued? Evidence? Alternative?
+On search → Language appropriate?
+Always → Japanese? Forward?
 ```
 
 ## セクション構造の意図
@@ -99,10 +100,13 @@ CHECK が他のセクションを参照する構造により、ルールの漏�
 
 ### CHECK
 
+チェック項目を条件ごとに分離し、認知負荷を軽減：
+
 | 適用条件 | チェック項目 |
 |---------|-------------|
-| 提案・意見要求時のみ | 批判先行したか？ 根拠はあるか？ 代替案を検討したか？ |
-| 常時 | 検索言語は適切か？ 出力は日本語か？ 前進しているか？ |
+| 提案・意見要求時 | 批判先行したか？ 根拠はあるか？ 代替案を検討したか？ |
+| 検索実行時 | 検索言語は適切か？ |
+| 常時 | 出力は日本語か？ 前進しているか？ |
 
 ## 記法について
 
