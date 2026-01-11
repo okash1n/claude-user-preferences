@@ -32,6 +32,16 @@ On search → Language appropriate?
 Always → Japanese? Forward?
 ```
 
+**統計情報（2026年1月時点）**
+
+| 項目 | 値 |
+|------|-----|
+| 文字数 | 約 536 文字 |
+| 推定トークン数 | 約 140 トークン |
+| コンテキスト使用率 | 約 0.07%（200,000トークン中） |
+
+> 推定方法: 英語約4文字/トークン、日本語約1.5文字/トークンで概算
+
 ## セクション構造の意図
 
 ### なぜこの順序か
@@ -143,9 +153,6 @@ XLT (Cross-Lingual-Thought) 方式の知見に基づく。研究により、英�
 
 ## 参考文献
 
-> 注: 以下の研究は主にGPT系・初期Claudeで検証されたもの。
-> モデル更新により効果が変化する可能性あり。
-
 ### コンテキスト長と性能
 
 - Liu et al. ["Lost in the Middle: How Language Models Use Long Contexts"](https://aclanthology.org/2024.tacl-1.9/) (TACL 2024)
@@ -156,6 +163,8 @@ XLT (Cross-Lingual-Thought) 方式の知見に基づく。研究により、英�
 
 - Huang et al. ["Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting"](https://aclanthology.org/2023.findings-emnlp.826/) (EMNLP 2023 Findings)
 - [Anthropic Claude Multilingual Support Documentation](https://docs.anthropic.com/en/docs/build-with-claude/multilingual-support)
+
+> 注: 上記の研究は主にGPT系・初期Claudeで検証されたもの。モデル更新により効果が変化する可能性があるため、定期的な検証を推奨。
 
 ## ライセンス
 
